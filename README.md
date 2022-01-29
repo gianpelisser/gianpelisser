@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gianpelisser.
-- 👀 I’m interested in Python and Games.
+- 👋 Hi, I’m @gianpelisser. But you can call me Vortex.
+- 👀 I’m interested in Python, Animes and Games.
 - 🌱 I’m currently learning Python.
 
 <!---
